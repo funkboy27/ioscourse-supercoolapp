@@ -28,6 +28,8 @@ class ViewController: UIViewController {
         coollogo.hidden = false
         coolBg.hidden = false
         unCoolButton.hidden = true
+        print("test")
+        
         
     }
 }
